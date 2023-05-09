@@ -1,6 +1,8 @@
 # Application Data
 api_key.txt
 
+# Others
+test.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

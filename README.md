@@ -19,7 +19,7 @@ DeepL APIを用いて日本語を英語に翻訳することのできるGUIア�
  - 入力したAPI KEYはapi_key.txtに保存されます  
 
 ## ChatGPT会話履歴
- - [こちら](ChatGPT_Conversation.mdm)
+ - [こちら](ChatGPT_Conversation.md)
 
 
 

@@ -1,8 +1,12 @@
 # Application Data
 api_key.txt
 
+# Temporary files for py2app
+setup.py
+
 # Others
 test.py
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
